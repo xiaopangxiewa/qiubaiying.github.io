@@ -1,0 +1,13 @@
+---
+layout:     post
+title:      my first blog
+subtitle:   标题能否对齐
+data:       2018-03-30
+author:     小螃蟹
+header-img: img/post-bg-2015.jpg
+catalog:true
+tags:
+    -生活
+---
+##hello
+>这是我的第一篇博客哟，欢迎大家来捧场~
